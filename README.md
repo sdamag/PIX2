@@ -7,8 +7,7 @@ Ecrire le nom de son projet
 
 1. Croquis 
 
-Mettre l'image de son croquis
-
+![alttag](http://www.hostingpics.net/thumbs/60/50/95/mini_605095Croquis.jpg)
  
 
 2. Cahier des charges 
