@@ -15,7 +15,7 @@ Mettre l'image de son croquis
 
 2.1. Quoi ? 
 
-Une application pour contrôler une partie de chez soi à distance .
+Une application pour contrï¿½ler une partie de chez soi ï¿½ distance .
 
  
 
@@ -27,13 +27,13 @@ Surveiller son logement pendant que l'on est absent.
 
 2.3. Pour qui ? 
 
-Les paruticuliers en générales, ceux qui partent en vacances ou sont en déplacement.
+Les paruticuliers en gï¿½nï¿½rales, ceux qui partent en vacances ou sont en dï¿½placement.
 
  
 
 2.4. Comment ? 
 
-Application smartphone connéctés par wifi à plusieurs objets de la maison.
+Application smartphone connï¿½ctï¿½s par wifi ï¿½ plusieurs objets de la maison.
 
  
 
@@ -41,41 +41,33 @@ Application smartphone connéctés par wifi à plusieurs objets de la maison.
 
 4.1. Cas d'utilisation 
 
-cf github Pix 2
+![alttag](http://www.hostingpics.net/thumbs/99/58/98/mini_995898PIX2elec.jpg)
 
  
 
-4.2. Diagramme états-transitions 
+4.2. Diagramme ï¿½tats-transitions 
 Cf github Pix 2
-A faire : 
-
-Installer Visio depuis Dreamspark. 
-
-Installer le modèle UML 2.2 dans Visio : http://softwarestencils.com/uml/index.html 
+![alttag](http://www.hostingpics.net/thumbs/19/17/75/mini_191775Pix2Dia.jpg)
 
  
 
-Mettre l'image du diagramme états-transitions fabriquer à l'aide de Visio avec le modèle UML 2.2. 
+4. Description matï¿½riel 
+
+4.1. Schï¿½ma Gadgeteer et ï¿½lectronique de l'objet 
+
+Insï¿½rer l'image obtenu ï¿½ travers le designer Gadgeteer 
+
+(et si nï¿½cessaire le dï¿½but du schema ï¿½lectronique des modules que vous devrez fabriquer) 
 
  
 
-4. Description matériel 
+4.2. Liste des ï¿½lï¿½ments ï¿½ acheter pour le fabriquer 
 
-4.1. Schéma Gadgeteer et électronique de l'objet 
+Liste du matï¿½riel avec pour chaque piï¿½ce : 
 
-Insérer l'image obtenu à travers le designer Gadgeteer 
+*le lien vers le datasheet ou la documentation de chaque ï¿½lï¿½ment. 
 
-(et si nécessaire le début du schema électronique des modules que vous devrez fabriquer) 
-
- 
-
-4.2. Liste des éléments à acheter pour le fabriquer 
-
-Liste du matériel avec pour chaque pièce : 
-
-*le lien vers le datasheet ou la documentation de chaque élément. 
-
-*le lien vers la pièce sur le site d'un des fournisseurs d'ESILV (voir la liste plus bas) 
+*le lien vers la piï¿½ce sur le site d'un des fournisseurs d'ESILV (voir la liste plus bas) 
 
 *le prix HT et TTC 
 
@@ -83,7 +75,7 @@ Liste du matériel avec pour chaque pièce :
 
 Dans le cadre des projets scolaires, ce sont les labos d'ESILV qui passeront les commandes. Il faut que les 
 
-étudiants sélectionnent leurs composants uniquement chez les fournisseurs suivants : 
+ï¿½tudiants sï¿½lectionnent leurs composants uniquement chez les fournisseurs suivants : 
 
 Lextronic : http://www.lextronic.fr/ 
 
@@ -97,7 +89,7 @@ Conrad : http://www.conradpro.fr/ce/
 
 5. Programmation 
 
-5.1. Description de la démonstration 
+5.1. Description de la dï¿½monstration 
 
 Mettre ici le menu de votre application console et indiquer comment refaire la demo. 
 
@@ -113,4 +105,4 @@ chaque fichier
 
 5.3. Diagramme de classes 
 
-Mettre ici le diagramme de classes fabriquer à l'aide de Visual Studio.
+Mettre ici le diagramme de classes fabriquer ï¿½ l'aide de Visual Studio.
