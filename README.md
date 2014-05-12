@@ -46,7 +46,7 @@ Application smartphone conn�ct�s par wifi � plusieurs objets de la maison.
  
 
 4.2. Diagramme �tats-transitions 
-Cf github Pix 2
+
 ![alttag](http://www.hostingpics.net/thumbs/19/17/75/mini_191775Pix2Dia.jpg)
 
  
