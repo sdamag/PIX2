@@ -7,7 +7,7 @@ Ecrire le nom de son projet
 
 1. Croquis 
 
-![alttag](http://www.noelshack.com/2014-21-1400511796-croquis.jpg)
+![alttag](http://image.noelshack.com/fichiers/2014/21/1400512941-croquis.jpg)
 
  
 
@@ -41,13 +41,13 @@ Application smartphone conn�ct�s par wifi � plusieurs objets de la maison.
 
 4.1. Cas d'utilisation 
 
-![alttag](http://www.noelshack.com/2014-21-1400511792-pix-2-elec.jpg)
+![alttag](http://image.noelshack.com/fichiers/2014/21/1400511792-pix-2-elec.jpg)
 
  
 
 4.2. Diagramme �tats-transitions 
 
-![alttag](http://www.noelshack.com/2014-21-1400511786-pix-2-dia.jpg)
+![alttag](http://image.noelshack.com/fichiers/2014/21/1400511786-pix-2-dia.jpg)
 
  
 
